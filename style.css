@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(209, 209, 209);
+    color:white;
+}
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+.bgGreen{
+    background-color: green;
+    color:white,
+}
+
+.bgGray{
+    background-color: gray;
+    color:white
+}
